@@ -1,2 +1,3 @@
-# manual-input-website
-[Semanttica] Manual Input Public Website
+# Manual Input Website
+
+www.manualinput.com
